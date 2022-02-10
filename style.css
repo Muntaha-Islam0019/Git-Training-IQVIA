@@ -1,0 +1,33 @@
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 2000px;
+}
+.margin{
+    margin-left: 50px;
+}
+.size img{
+    margin-left: 0px;
+    width: 50%;
+    height: 50%;
+}
+#background1{
+    margin-top: 50px;
+    margin-left: 30px;
+    background-image: url(shape2.jpg);
+    background-repeat: no-repeat; 
+    border-radius: 20px;
+}
+#background2{
+    margin-top: 50px;
+    margin-left: 30px;
+    background-image: url(shape\ 1.jpg);
+    background-repeat: no-repeat; 
+    border-radius: 20px;
+}
+#background3{
+    margin-top: 50px;
+    margin-left: 30px;
+    background-image: url(shape3.jpg);
+    background-repeat: no-repeat; 
+    border-radius: 20px;
+}
