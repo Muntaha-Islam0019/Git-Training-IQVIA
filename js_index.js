@@ -1,3 +1,7 @@
+console.log("Hey, it's Muntaha again.")
+console.log("Honestly, it's my first JavaScript code, so, I'm not going to ignore the tradition!")
+console.log("Hello JS!")
+
 let x = "IQVIA";
 
 console.log(x)
@@ -9,4 +13,3 @@ const time = date.toLocaleTimeString();
 
 console.log('Date: ' + n);
 console.log('Time: ' + time);
-
