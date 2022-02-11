@@ -1,4 +1,4 @@
-//javascript stopwatch 
+//stopwatch 
 window.onload = function(){
     var seconds = 00;
     var tens = 00;
